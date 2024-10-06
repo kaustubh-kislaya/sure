@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <header className="hero">
         <h1>Sure: Pure Videos, No Doubts.</h1>
-        <p>Join our waitlist to be the first to know when we launch!</p>
+        <p>Join our waitlist to be the first to know when we launch! Currently builduing full power</p>
         <button onClick={() => alert('Coming Soon!')}>Join the Waitlist</button>
       </header>
       
