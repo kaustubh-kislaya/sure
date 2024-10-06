@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  background: #f0f8ff;
+  padding: 50px;
+}
+
+.features, .waitlist {
+  margin: 20px 0;
+  padding: 20px;
+}
+
+input {
+  padding: 10px;
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px 20px;
+  background: #008CBA;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #005f7f;
+}
